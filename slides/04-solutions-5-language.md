@@ -1,4 +1,5 @@
-# Alternatives to calling your user a failure
+# Be nice!
+## And don't call your user a failure
 - Say, "The image is saved, and will be posted later"
 - Ask the user for confirmation before you sync up with the server
 - Be honest, be reassuring

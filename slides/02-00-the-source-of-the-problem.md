@@ -1,7 +1,7 @@
 # The source of the problem: Us!
 
-##We're out of touch with reality
+We're out of touch with reality.
 
-As designers and developers, we work from always-online desktop devices. We rely too much on a fragile link back to the servers.
+We work from always-online desktop devices. This encourages our ignorance of a fundamental truth:
 
-This reliance encourages our ignorance of a fundamental truth: Offline is simply a fact of life.
+Offline is simply a fact of life.
