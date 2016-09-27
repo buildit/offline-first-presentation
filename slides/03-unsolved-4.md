@@ -1,3 +1,3 @@
-# Still works offline?
+# How do we communicate that it still works offline?
 
-How can we communicate that creating data within the app is still possible offline, and that it will be properly dealt with when network connection is restored?
+Creating data within the app is still possible offline. And the data will be properly dealt with when network connection is restored. How to communicate this clearly?
